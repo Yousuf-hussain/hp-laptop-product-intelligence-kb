@@ -1,4 +1,4 @@
-# HP Laptop Product Intelligence Knowledge Base
+# Laptop Product Intelligence Knowledge Base
 
 This repository serves as the central source of truth for HP laptop product intelligence.
 
